@@ -14,7 +14,7 @@
     "babelify": "^7.2.0",
     "browserify": "^14.3.0",
     "buffer": "^3.5.3",
-    "clipboard-js": "^0.2.0",
+    "clipboard-js": "^0.3.6",
     "dropbox": "^2.5.3",
     "es6-promise": "^3.0.2",
     "events": "^1.1.0",
