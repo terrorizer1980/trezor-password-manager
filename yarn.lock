@@ -1095,9 +1095,10 @@ clean-css@^4.0.4:
   dependencies:
     source-map "~0.6.0"
 
-clipboard-js@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/clipboard-js/-/clipboard-js-0.2.0.tgz#ba1a6092ccbce43ccc9817407737692e432f409b"
+clipboard-js@^0.3.6:
+  version "0.3.6"
+  resolved "https://registry.yarnpkg.com/clipboard-js/-/clipboard-js-0.3.6.tgz#6260add69b5318fde40b80f9d3c8c863efdaf339"
+  integrity sha512-hyrmvbrYCeRBHdiR3KrEz0tmrUTXXEU8HLeGW0Y0icUSwYmAsmc+d6wfE4EDb/TxZmAVJG0eTfMlulCIT+ecfw==
 
 cliui@^3.2.0:
   version "3.2.0"
